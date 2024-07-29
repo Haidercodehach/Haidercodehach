@@ -10,7 +10,6 @@ Welcome to my GitHub profile! 🌟
 
 - [LinkedIn](https://www.linkedin.com/in/haider-aftab-game-devloper/)
 - [X](https://x.com/HaiderAftab007)
-
 <!-- - [Personal Website](https://www.jacobsomer.com) -->
 
 ## Skills
