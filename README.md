@@ -1,4 +1,3 @@
-
 # Hi, I'm Haider Aftab! 👋
 
 Welcome to my GitHub profile! 🌟
